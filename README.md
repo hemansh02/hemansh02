@@ -12,5 +12,6 @@ Computer Science graduate and RHCSA-certified Linux administrator with hands-on 
 📧 Email: hemansh02@gmail.com
 <hr>
 
-### ♦️ Open to Opportunities
+## ♦️ Open to Opportunities
 Currently seeking entry-level DevOps, Cloud, and Infrastructure Engineering roles.
+<hr>
