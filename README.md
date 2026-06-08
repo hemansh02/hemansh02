@@ -1,10 +1,15 @@
 # 💫 About Me:
 Computer Science graduate and RHCSA-certified Linux administrator with hands-on experience in:<br>AWS, Linux, Docker, Kubernetes, Jenkins, Ansible, and monitoring tools.<br>Interested in DevOps, Cloud Engineering, and Site Reliability Engineering.
-
-
-## 🌐 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]: www.linkedin.com/in/hemansh-sankhla-461b9228b
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)][hemansh02@gmail.com] 
+<hr>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
+<hr>
+
+## 🌐 Let's Connect:
+💼 LinkedIn: www.linkedin.com/in/hemansh-sankhla-461b9228b
+📧 Email: hemansh02@gmail.com
+<hr>
+
+## ♦️ Open to Opportunities
+Currently seeking entry-level DevOps, Cloud, and Infrastructure Engineering roles.
